@@ -1,5 +1,5 @@
 {
-  "isAppEnabled": false,
+  "isAppEnabled": true,
   "headline": "Subscription Inactive",
   "message": "Your license has expired. Please renew."
  }
