@@ -1,5 +1,5 @@
 {
-  "isAppEnabled": false,
+  "isAppEnabled": true,
   "headline": "App disabled",
   "message": "Please contact the developer to fix it"
  }
